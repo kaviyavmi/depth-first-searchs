@@ -92,7 +92,7 @@ F H <BR>
 
 ## PROGRAM:
 
-```
+```python
 from collections import defaultdict
 
 def dfs(graph, start, visited, path):
